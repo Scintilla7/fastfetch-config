@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Terminal Windows (download di [sini](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=ID))
+- Terminal Windows (powershell) buat jalanin cmd dan fastfetch (download di [sini](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=ID))
   > Terminal OS lain macem MacOS dan Linux mungkin juga bisa cuma ini aku buatnya di Windows😅
   > mungkin ada di modif sedikit buat OS lain
 - Scoop package manager (download di [sini](https://scoop.sh/))
@@ -11,7 +11,14 @@
 
 ## Stepnya
 
-Generate dulu config.jsonc pake cmd ini:
+Install dulu fastfetch pake scoop:
+
+```powershell
+scoop install fastfetch
+
+```
+
+trus generate dulu config.jsonc pake cmd ini:
 
 ```powershell
 fastfetch --gen-config-full
