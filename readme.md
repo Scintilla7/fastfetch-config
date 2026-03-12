@@ -27,8 +27,7 @@ fastfetch --gen-config-full
 
 Trus download atau copy isi file raw [config.jsonc](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.jsonc yang sudah di generate tadi
 
-> bisa aktifin module connection di config.jsonc biar bisa tampilin adapter network beserta status koneksi, public ip, local ip sama dns,
-> tinggal di uncomment aja
+> bisa aktifin module2 di bagian Connection di config.jsonc biar bisa tampilin adapter network beserta status koneksi, public ip, local ip sama dns. Tinggal di uncomment aja pake `ctrl + /`
 
 udah tinggal jalanin cmd fastfetch di terminal:
 
