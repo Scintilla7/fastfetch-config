@@ -73,6 +73,25 @@ Sesuaiin `"path/gambar/ori"` dengan path gambar asal dan `"path/jadi/gambar_sixe
 
 ---
 
+## 🖼️ Cara Mengubah Logo
+
+Edit baris ini di config.jsonc:
+
+```json
+{
+  "logo": {
+    "source": "~/.config/fastfetch/logos/bina_sticker_1.sixel", // edit path gambar sixel disini
+    "type": "raw",
+    "height": 20,
+    "width": 40,
+    "padding": {
+      "top": 7,
+      "left": 2,
+    },
+  },
+}
+```
+
 ## 🔗 Repo Fastfetch
 
 [GitHub - fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
