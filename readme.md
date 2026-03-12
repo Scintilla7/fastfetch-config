@@ -9,6 +9,9 @@ fastfetch --gen-config-full
 
 Trus download atau copy isi file raw [config.json](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.json yang sudah di generate tadi
 
+> bisa aktifin module connection di config.json biar bisa tampilin public ip, local ip sama dns
+> tinggal di uncomment aja
+
 ## 🖼️ Screenshot Terminal
 
 Tampilan fastfetch di terminal Windows:
