@@ -198,10 +198,16 @@
     //   "keyColor": "magenta",
     // },
     // {
+    //   "type": "WiFi",
+    //   "key": "├╴ WiFi     │",
+    //   "keyColor": "magenta",
+    //   "format": "{1} [{2}]",
+    // },
+    // {
     //   "type": "publicip",
     //   "key": "├╴󰖟 Pub. IP  │",
     //   "keyColor": "magenta",
-    //   "format":"{1}",
+    //   "format": "{1}",
     // },
     // {
     //   "type": "localip",
