@@ -1,5 +1,14 @@
 # 💻 Instalasi
 
+## Requirements
+
+- Terminal Windows (download di [sini](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=ID))
+- Scoop package manager (download di [sini](https://scoop.sh/))
+- Chafa (instruksi di [sini](#-install-chafa))
+- Nerd Font buat tampilin logo2 (download di [sini](https://www.nerdfonts.com/font-downloads))
+
+## Stepnya
+
 Generate dulu config.json pake cmd ini:
 
 ```powershell
@@ -9,23 +18,22 @@ fastfetch --gen-config-full
 
 Trus download atau copy isi file raw [config.json](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.json yang sudah di generate tadi
 
-> bisa aktifin module connection di config.json biar bisa tampilin public ip, local ip sama dns
+> bisa aktifin module connection di config.json biar bisa tampilin public ip, local ip sama dns,
 > tinggal di uncomment aja
 
 ## 🖼️ Screenshot Terminal
 
 Tampilan fastfetch di terminal Windows:
+
 ![Terminal](https://github.com/Scintilla7/fastfetch-config/blob/main/screenshot/fastfetch.jpg)
 
-## 🔗 Repo Fastfetch
+Dengan mengaktifkan modul connection di config.json:
 
-[GitHub - fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-
----
+![Terminal_Connection](https://github.com/Scintilla7/fastfetch-config/blob/main/screenshot/fastfetch_connection.jpg)
 
 ## 📦 Install Chafa
 
-Command buat install chafa pake scoop (install dulu scoop di [sini](https://scoop.sh/)):
+Command buat install chafa pake scoop:
 
 ```powershell
 scoop install chafa
@@ -34,7 +42,7 @@ scoop install chafa
 
 ---
 
-## 🖼️ Konversi Gambar ke Format Sixel
+## 🖼️ Konversi Gambar ke Format Sixel pake Chafa
 
 Pake command ini buat convert gambar ke format sixel biar bisa ditampilin di terminal Windows:
 
@@ -46,6 +54,12 @@ chafa -f sixel -s WxH "path/gambar/ori" > "path/jadi/gambar_sixel.sixel"
 Ubah `WxH` dengan ukuran resolusi yang diinginkan (misalnya `40x40`).
 
 Sesuaiin `"path/gambar/ori"` dengan path gambar asal dan `"path/jadi/gambar_sixel.sixel"` dengan path untuk output gambar sixel.
+
+---
+
+## 🔗 Repo Fastfetch
+
+[GitHub - fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ---
 
@@ -61,10 +75,14 @@ fastfetch --list-modules
 Cmd buat tampilin detail format modul2 fastfetch:
 
 ```powershell
-fastfetch -h <module>-format
+fastfetch -h [module]-format
 
 ```
 
-(Ganti `<module>` dengan nama modul di --list-modules, contoh: `fastfetch -h cpu-format`)
+(Ganti `[module]` dengan nama modul di --list-modules, contoh: `fastfetch -h cpu-format`)
 
 ---
+
+### Credits
+
+Didasarkan pada desain fastfetch user **SoupCat-Py** (cek di [sini](https://github.com/SoupCat-Py/fastfetch-configs))
