@@ -30,6 +30,13 @@ Trus download atau copy isi file raw [config.jsonc](https://github.com/Scintilla
 > bisa aktifin module connection di config.jsonc biar bisa tampilin adapter network beserta status koneksi, public ip, local ip sama dns,
 > tinggal di uncomment aja
 
+udah tinggal jalanin cmd fastfetch di terminal:
+
+```powershell
+fastfetch
+
+```
+
 ## 🖼️ Screenshot Terminal
 
 Tampilan fastfetch di terminal Windows:
