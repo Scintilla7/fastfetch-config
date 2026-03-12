@@ -11,7 +11,8 @@ Trus download atau copy isi file raw [config.json](https://github.com/Scintilla7
 
 ## 🖼️ Screenshot Terminal
 
-
+Tampilan fastfetch di terminal Windows:
+![Terminal](https://github.com/Scintilla7/fastfetch-config/blob/main/screenshot/fastfetch.jpg)
 
 ## 🔗 Repo Fastfetch
 
