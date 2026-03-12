@@ -191,33 +191,33 @@
       "key": "╰────────────┴───────────────────────────────────────────────────────────╯",
       "keyColor": "red",
     },
-    // ===========    CONNECTION (dicomment aja kalau mau dimatiin)  ===========
-    {
-      "type": "custom",
-      "key": "╭─CONNECTION─┬───────────────────────────────────────────────────────────╮",
-      "keyColor": "magenta",
-    },
-    {
-      "type": "publicip",
-      "key": "├╴󰖟 Pub. IP  │",
-      "keyColor": "magenta",
-      "format":"{1}",
-    },
-    {
-      "type": "localip",
-      "key": "├╴󰌗 Loc. IP  │",
-      "keyColor": "magenta",
-    },
-    {
-      "type": "dns",
-      "key": "├╴󰇖 DNS      │",
-      "keyColor": "magenta",
-    },
-    {
-      "type": "custom",
-      "key": "╰────────────┴───────────────────────────────────────────────────────────╯",
-      "keyColor": "magenta",
-    },
+    // ===========    CONNECTION (uncomment aja kalau mau diaktifkan)  ===========
+    // {
+    //   "type": "custom",
+    //   "key": "╭─CONNECTION─┬───────────────────────────────────────────────────────────╮",
+    //   "keyColor": "magenta",
+    // },
+    // {
+    //   "type": "publicip",
+    //   "key": "├╴󰖟 Pub. IP  │",
+    //   "keyColor": "magenta",
+    //   "format":"{1}",
+    // },
+    // {
+    //   "type": "localip",
+    //   "key": "├╴󰌗 Loc. IP  │",
+    //   "keyColor": "magenta",
+    // },
+    // {
+    //   "type": "dns",
+    //   "key": "├╴󰇖 DNS      │",
+    //   "keyColor": "magenta",
+    // },
+    // {
+    //   "type": "custom",
+    //   "key": "╰────────────┴───────────────────────────────────────────────────────────╯",
+    //   "keyColor": "magenta",
+    // },
     // ===========    MEDIA   ===========
     {
       "type": "colors",

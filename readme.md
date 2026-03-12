@@ -1,4 +1,19 @@
-# 🔗 Repo Fastfetch
+# 💻 Instalasi
+
+Generate dulu config.json pake cmd ini:
+
+```powershell
+fastfetch --gen-config-full
+
+```
+
+Trus download atau copy isi file raw [config.json](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.json yang sudah di generate tadi
+
+## 🖼️ Screenshot Terminal
+
+
+
+## 🔗 Repo Fastfetch
 
 [GitHub - fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
