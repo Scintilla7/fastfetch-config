@@ -142,7 +142,7 @@
       "type": "display",
       "key": "├╴󰍹 Display  │",
       "keyColor": "red",
-      "format": "{1}×{2}, {3}Hz [{7}]",
+      "format": "{6} @ {1}×{2} {12}\" {3}Hz [{7}]",
     },
     {
       "type": "cpu",
