@@ -11,16 +11,16 @@
 
 ## Stepnya
 
-Generate dulu config.json pake cmd ini:
+Generate dulu config.jsonc pake cmd ini:
 
 ```powershell
 fastfetch --gen-config-full
 
 ```
 
-Trus download atau copy isi file raw [config.json](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.json yang sudah di generate tadi
+Trus download atau copy isi file raw [config.jsonc](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.jsonc yang sudah di generate tadi
 
-> bisa aktifin module connection di config.json biar bisa tampilin public ip, local ip sama dns,
+> bisa aktifin module connection di config.jsonc biar bisa tampilin public ip, local ip sama dns,
 > tinggal di uncomment aja
 
 ## 🖼️ Screenshot Terminal
@@ -29,7 +29,7 @@ Tampilan fastfetch di terminal Windows:
 
 ![Terminal](https://github.com/Scintilla7/fastfetch-config/blob/main/screenshot/fastfetch.jpg)
 
-Dengan mengaktifkan modul connection di config.json:
+Dengan mengaktifkan modul connection di config.jsonc:
 
 ![Terminal_Connection](https://github.com/Scintilla7/fastfetch-config/blob/main/screenshot/fastfetch_connection.jpg)
 
