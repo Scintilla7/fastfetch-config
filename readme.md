@@ -122,5 +122,5 @@ fastfetch -h [module]-format
 ### Credits
 
 Didasarkan pada desain fastfetch user **SoupCat-Py** (cek di [sini](https://github.com/SoupCat-Py/fastfetch-configs))  
-Src gambar logo ss 1: [HoYoLab](https://www.hoyolab.com/article/43382173)  
-Src gambar logo ss 2: [Facebook](https://web.facebook.com/reel/1493260242352600)
+Src gambar logo ss 1: [HoYoLab](https://www.hoyolab.com/article/43382173) - ganti ke bahasa Jepang  
+Src gambar logo ss 2: [Facebook](https://web.facebook.com/reel/1493260242352600) - sticker ada di komentar
