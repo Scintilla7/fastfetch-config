@@ -7,7 +7,7 @@
   > mungkin perlu di modif sedikit buat OS lain
 - Scoop package manager (download di [sini](https://scoop.sh/))
 - Chafa (instruksi di [sini](#-install-chafa))
-- Nerd Font buat tampilin logo2 (download di [sini](https://www.nerdfonts.com/font-downloads))
+- Nerd Font buat tampilin icon2 (download di [sini](https://www.nerdfonts.com/font-downloads))
 
 ## Stepnya
 
