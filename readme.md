@@ -46,6 +46,8 @@ Dengan mengaktifkan modul connection di config.jsonc:
 
 ![Terminal_Connection](https://github.com/Scintilla7/fastfetch-config/blob/main/screenshot/fastfetch_connection.jpg)
 
+Src gambar di [credits](#credits)
+
 ## 📦 Install Chafa
 
 Command buat install chafa pake scoop:
@@ -119,4 +121,6 @@ fastfetch -h [module]-format
 
 ### Credits
 
-Didasarkan pada desain fastfetch user **SoupCat-Py** (cek di [sini](https://github.com/SoupCat-Py/fastfetch-configs))
+- Didasarkan pada desain fastfetch user **SoupCat-Py** (cek di [sini](https://github.com/SoupCat-Py/fastfetch-configs))
+- Src gambar ss 1: [HoYoLab](https://www.hoyolab.com/article/43382173)
+- Src gambar ss 2: [Facebook](https://web.facebook.com/reel/1493260242352600)
