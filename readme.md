@@ -36,6 +36,8 @@ fastfetch
 
 ```
 
+Cek lebih detail cara konfigurasi fastfetch di repo github officialnya - [GitHub/fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
 ## 🖼️ Screenshot Terminal
 
 Tampilan fastfetch di terminal Windows:
@@ -56,6 +58,8 @@ Command buat install chafa pake scoop:
 scoop install chafa
 
 ```
+
+Cek Chafa di web officialnya - [Chafa](https://hpjansson.org/chafa/)
 
 ---
 
@@ -92,10 +96,6 @@ Edit baris ini di config.jsonc:
   },
 }
 ```
-
-## 🔗 Repo Fastfetch
-
-[GitHub - fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ---
 
