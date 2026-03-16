@@ -1,4 +1,8 @@
-# 💻 Instalasi
+# Apa itu fastfetch?
+
+Singkatnya, Fastfetch adalah cli untuk menampilkan spek dan informasi sistem device di terminal. Untuk lebih detailnya dan konfigurasi2nya bisa dilihat di repo officialnya fastfetch - [GitHub/fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+## 💻 Instalasi
 
 ## Requirements
 
@@ -35,8 +39,6 @@ udah tinggal jalanin cmd fastfetch di terminal:
 fastfetch
 
 ```
-
-Cek lebih detail cara konfigurasi fastfetch di repo github officialnya - [GitHub/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## 🖼️ Screenshot Terminal
 
