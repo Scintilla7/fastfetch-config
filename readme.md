@@ -11,7 +11,7 @@ Singkatnya, Fastfetch adalah cli untuk menampilkan spek dan informasi sistem dev
   > mungkin perlu di modif sedikit buat OS lain
 - Scoop package manager (download di [sini](https://scoop.sh/))
 - Chafa (instruksi di [sini](#-install-chafa))
-- Nerd Font buat tampilin icon2 (download di [sini](https://www.nerdfonts.com/font-downloads))
+- Nerd Font buat tampilin icon2 (download di [sini](https://www.nerdfonts.com/font-downloads))  
 **Rekomendasi:** JetBrainsMono, FiraCode, HackNerdFont, CaskaydiaCove
 
 ## Stepnya
