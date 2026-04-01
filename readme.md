@@ -12,6 +12,7 @@ Singkatnya, Fastfetch adalah cli untuk menampilkan spek dan informasi sistem dev
 - Scoop package manager (download di [sini](https://scoop.sh/))
 - Chafa (instruksi di [sini](#-install-chafa))
 - Nerd Font buat tampilin icon2 (download di [sini](https://www.nerdfonts.com/font-downloads))
+**Rekomendasi:** JetBrainsMono, FiraCode, HackNerdFont, CaskaydiaCove
 
 ## Stepnya
 
@@ -31,7 +32,7 @@ fastfetch --gen-config-full
 
 Trus download atau copy isi file raw [config.jsonc](https://github.com/Scintilla7/fastfetch-config/blob/main/config.jsonc) trus paste ke config.jsonc yang sudah di generate tadi
 
-> bisa aktifin module2 di bagian Connection di config.jsonc biar bisa tampilin adapter network beserta status koneksi, public ip, local ip sama dns. Tinggal di uncomment aja pake `ctrl + /`
+> bisa aktifin module2 di bagian Connection di config.jsonc biar bisa tampilin adapter network beserta status koneksi, public ip, local ip sama dns. Tinggal di uncomment aja pake `ctrl + /` di VS Code.
 
 udah tinggal jalanin cmd fastfetch di terminal:
 
